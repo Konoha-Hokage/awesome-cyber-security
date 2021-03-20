@@ -110,7 +110,7 @@ List links and description
 | ----- | ------ |
 | [Cybrary](https://www.cybrary.it/) | Free and Open Source Cyber Security Learning | 
 | [O Tao do Desenvolvimento Seguro](https://github.com/forkd/seguranca) | [PT-BR] Safe Development Guide | 
-| [Guru99](https://www.guru99.com/ethical-hacking-tutorials.html/) | Website with guides and a Free Ethical Hacking Course |
+| [Intellipaat](https://intellipaat.com/ceh-ethical-hacking-certification-course/) | Website with guides and a Free Ethical Hacking Course |
 
 ### <a name="os"></a>OS - Operation Systens 
 | Link | Description | 
